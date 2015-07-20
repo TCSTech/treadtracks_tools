@@ -5,7 +5,7 @@ Tools to work with treadtracks
 
 1. Get necessary libraries:
     ```
-    sudo apt-get install python3-dev libmysqlclient-dev
+    sudo apt-get install python3-dev libmysqlclient-dev virtualenv
     ```
 
 2. Create virtualenv for python3 (run from repository root)
