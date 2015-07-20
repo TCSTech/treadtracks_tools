@@ -12,6 +12,7 @@ Tools to work with treadtracks
     ```
     virtualenv -p /usr/bin/python3 venv
     ```
+    
 3. Install dependent packages
     ```
     pip install -r requirements.txt
@@ -27,6 +28,7 @@ Tools to work with treadtracks
       "notifications": ["jloosli@tcstire.com"]
     }
     ```
+    
 5. Add virtualenv to cronjob (be sure to run from virtualenv python)
    ```
    /path/to/repo/venv/bin/python /path/to/repo/check_finished_goods.py
